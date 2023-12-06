@@ -12,7 +12,7 @@ PyCharm
 Running the Tests
 
 To run the tests, execute the following command in the terminal:
-robot -d results Tests/Amazon.robot
+robot -d results Tests/SwagLabs.robot
 
 # Configuration
 Set the variables in the Variables.py file using the accepted usernames and a common password for all users:
