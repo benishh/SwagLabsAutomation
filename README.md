@@ -29,3 +29,9 @@ Password for all users: secret_sauce
 # Note:
 The website has an issue with checkout information fields (First name, last name, Zip/Postal Code), as it keeps overriding the first name with the characters entered in the last name field.
 
+# Demo Recording
+
+https://github.com/benishh/SwagLabsAutomation/assets/72740790/fb5a84d2-a642-4be7-a843-e98f925bdd83
+
+
+
