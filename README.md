@@ -1,7 +1,7 @@
 ## SwagLabsAutomation
 
 # Introduction
-This project is designed for testing the functionality of the Amazon website using the Robot Framework. It includes test cases for different user scenarios and can be executed from the command line.
+This project is designed for testing the functionality of the SwagLabs website using the Robot Framework. It includes test cases for different user scenarios and can be executed from the command line.
 
 ## Prerequisites
 Before running the tests, ensure you have the following installed:
