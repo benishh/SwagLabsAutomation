@@ -1,4 +1,4 @@
-## SwagLabsAutomation
+## Robotframework-SwagLabsAutomation
 
 # Introduction
 This project is designed for testing the functionality of the SwagLabs website using the Robot Framework. It includes test cases for different user scenarios and can be executed from the command line.
